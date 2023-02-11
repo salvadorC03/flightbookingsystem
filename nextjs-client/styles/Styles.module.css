@@ -1,0 +1,76 @@
+.form input {
+    width: 20rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.form label {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.form button {
+    margin-top: 7%;
+    margin-bottom: 0.5rem;
+    width: 10rem;
+}
+
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-card {
+    width: 20rem; 
+}
+
+.card {
+    padding: 2rem;
+}
+
+.header {
+    margin-bottom: 1rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.group {
+    margin-top: 5%;
+}
+
+.progress {
+    margin-top: 10%;
+}
+
+.alert {
+    margin-top: 5%;
+    width: 100%;
+    word-wrap: break-word;
+}
+
+.layout-card {
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 80%;
+}
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navigation li {
+    display: inline-block;
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.navigation a {
+    text-decoration: none;
+}
+
+.navigation-group {
+    margin-bottom: 2rem;
+}
